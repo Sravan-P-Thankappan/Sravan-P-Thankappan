@@ -1,4 +1,4 @@
-### <div align="center">I'm Sravan, a full-time MERN stack developer  developer 👨‍💻 based on Kerala India</div>  
+### <div align="center">I'm Sravan, a full-time MERN stack   developer 👨‍💻 based on Kerala India</div>  
   
 
 - 🔭 I’m currently doing an internship in Brototype Kochi  
