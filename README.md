@@ -4,7 +4,7 @@
 - 🔭 I’m currently doing an internship in Brototype Kochi  
   
 
-- 🌱 I’m currently learning React.js and Redux  
+- 🌱 I’m currently learning React.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
