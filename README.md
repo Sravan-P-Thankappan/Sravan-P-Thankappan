@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as junior software developer in FlexM Kochi 
   
 
-- 🌱 I’m currently learning React.js  
+- 🌱  learning React.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
