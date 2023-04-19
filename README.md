@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sravan, a full-time MERN stack   developer 👨‍💻 from Kerala India</div>  
   
 
-- 🔭 I’m currently doing an internship in Brototype Kochi  
+- 🔭 I’m currently working as junior software developer in FlexM Kochi 
   
 
 - 🌱 I’m currently learning React.js  
